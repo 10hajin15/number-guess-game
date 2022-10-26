@@ -1,0 +1,52 @@
+h1{
+  font-size: 45px;
+  text-align: center;
+  color: rgb(184, 144, 255);
+  font-family: "CookieRunOTF";
+}
+
+.container{
+  font-size: 20px;
+  text-align: center;
+  border:1px solid rgb(184, 144, 255);
+  padding:40px;
+  color: rgb(184, 144, 255);
+  font-family: "CookieRunOTF";
+  font-weight: lighter;
+  border-radius: 10px;
+}
+
+.container #result-area{
+  padding: 10px;
+}
+
+.container #chance-area{
+  padding: 10px;
+}
+
+.InputButton{
+  padding: 15px;
+}
+
+#user-input{
+  border: 1px solid gray;
+  box-shadow: 0 5px 6px rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+  width: 200px;
+  height:40px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.Button{
+  font-size: 15px;
+  font-family: "CookieRunOTF";
+  border: 1px solid gray;
+  box-shadow: 0 5px 6px rgba(0, 0, 0, 0.1);
+  font-weight: lighter;
+  padding: 10px 20px;
+  margin: 2px;
+  border-radius: 7px;
+}
